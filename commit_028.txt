@@ -1,0 +1,6 @@
+Commit Number: 28
+Date: 2026-01-28
+Network: Base
+
+Commit Message:
+Refactor tokenomics constants

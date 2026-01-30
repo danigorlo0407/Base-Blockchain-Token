@@ -1,0 +1,6 @@
+Commit Number: 5
+Date: 2026-01-05
+Network: Base
+
+Commit Message:
+Add max supply cap to Base Token

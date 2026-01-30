@@ -1,0 +1,6 @@
+Commit Number: 21
+Date: 2026-01-21
+Network: Base
+
+Commit Message:
+Define initial token distribution

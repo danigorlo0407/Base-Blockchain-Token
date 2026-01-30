@@ -1,0 +1,6 @@
+Commit Number: 2
+Date: 2026-01-02
+Network: Base
+
+Commit Message:
+Add ERC-20 compliance for Base Token

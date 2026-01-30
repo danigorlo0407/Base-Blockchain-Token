@@ -1,0 +1,6 @@
+Commit Number: 29
+Date: 2026-01-29
+Network: Base
+
+Commit Message:
+Document token supply mechanics

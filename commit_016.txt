@@ -1,0 +1,6 @@
+Commit Number: 16
+Date: 2026-01-16
+Network: Base
+
+Commit Message:
+Harden burn logic against misuse

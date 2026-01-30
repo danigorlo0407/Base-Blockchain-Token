@@ -1,0 +1,6 @@
+Commit Number: 22
+Date: 2026-01-22
+Network: Base
+
+Commit Message:
+Add vesting schedule for team tokens

@@ -1,0 +1,6 @@
+Commit Number: 6
+Date: 2026-01-06
+Network: Base
+
+Commit Message:
+Refactor token initialization parameters

@@ -1,0 +1,6 @@
+Commit Number: 74
+Date: 2026-03-15
+Network: Base
+
+Commit Message:
+Add voting power calculation logic

@@ -1,0 +1,6 @@
+Commit Number: 36
+Date: 2026-02-05
+Network: Base
+
+Commit Message:
+Update RPC configuration for Base

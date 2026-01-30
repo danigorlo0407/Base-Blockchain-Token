@@ -1,0 +1,6 @@
+Commit Number: 52
+Date: 2026-02-21
+Network: Base
+
+Commit Message:
+Add tests for mint and burn functions

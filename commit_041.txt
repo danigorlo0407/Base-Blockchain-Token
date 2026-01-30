@@ -1,0 +1,6 @@
+Commit Number: 41
+Date: 2026-02-10
+Network: Base
+
+Commit Message:
+Add Hardhat config for Base network
